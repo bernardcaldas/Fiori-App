@@ -1,0 +1,14 @@
+<mvc:View 
+    controllerName="com.meuusuario.com.project2.controller.HelloWorldFiori"
+    xmlns:mvc="sap.ui.core.mvc" 
+    displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="Hello World App">
+        <content>
+            <VBox id="helloVBox" class="sapUiSmallMargin">
+                <Text id="helloText" text="Hello World!" />
+                <Text id="descriptionText" text="Este é um exemplo de um app Fiori." />
+            </VBox>
+        </content>
+    </Page>
+</mvc:View>

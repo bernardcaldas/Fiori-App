@@ -1,0 +1,16 @@
+<mvc:View controllerName="com.meuusuario.com.project2.controller.App"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <App id="app">
+        <pages>
+            <Page id="homePage" title="Home Page">
+                <content>
+                    <VBox id="appVBox" class="sapUiSmallMargin">
+                        <Text id="welcomeText" text="Bem-vindo ao aplicativo Hello World Fiori!" />
+                    </VBox>
+                </content>
+            </Page>
+        </pages>
+    </App>
+</mvc:View>
