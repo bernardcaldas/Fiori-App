@@ -20,6 +20,8 @@
 ## project2
 
 An SAP Fiori application.
+![Texto alternativo](./2024-08-19%2022_27_04-Sample%20Fiori%20APP.png)
+
 
 ### Starting the generated app
 
